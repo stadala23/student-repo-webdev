@@ -4,9 +4,10 @@ In this repository, you will find starter files for the homework assignments for
 
 ### Homework Assignments
 
-- Homework 1 - Setup and Code Checks
-- Homework 2 - HTML, Accessibility, and CSS
+- Homework 1 - Setup and Semantics
+- Homework 2 - HTML and CSS
 - Homework 3 - Bootstrap and JavaScript
+- Homework 4 - Code Review
 
 Check Canvas for more information on each assignment.
 
