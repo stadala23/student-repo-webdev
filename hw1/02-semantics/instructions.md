@@ -12,7 +12,7 @@ Not all HTML elements have semantic meaning. For example, according to the mdn w
 
 Writing semantically appropriate HTML makes web pages accessible. Assistive technologies, such as screen readers, convey the information to its users through semantics. **Inappropriate semantics can deliver wrong or confusing information to users via assistive technologies.**
 
-## 00-example
+### 00-example
 
 - This exercise provides an example on how to choose semantically correct elements.
 - The **solution** has been provided in **00-example-solution.html file**.
@@ -68,7 +68,7 @@ We want to both use the appropriate semantic elements and we want to avoid addin
 - Review 04-accessiblity.pdf on Canvas (see the Week 3 Overview).
 - Identify and fix the accessibility issues in the **04-form.html** file.
 
-Notes:
+#### Notes:
 
 - There is limited CSS associated with this exercise, as most elements are rendered using the browser’s default styling. Thus, after fixing the semantic issues the rendered result could be different with the one from the starter file. 
 - By definition, the [radio buttons](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/radio) require that only one radio button in a given group can be selected at the same time. This should be enforced in this assignments as well as later ones.
