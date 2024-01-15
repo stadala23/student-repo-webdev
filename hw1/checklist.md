@@ -19,5 +19,7 @@ Prior to turning in your assignment, complete the following checklist in regards
 
 #### How to update this markdown document?
 
+Edit the markdown and add an x to each completed task.
+
 - [ ] Uncompleted task
 - [x] Completed task
