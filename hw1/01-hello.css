@@ -1,9 +1,18 @@
 .img {
+  border-radius: 50%;
+  padding-top: 10px;
+  padding-bottom: 10px;
   display: block;
-  margin: 0 auto;
+  margin: auto;
 }
 
 .bio {
+  padding-left: 10px;
+  padding-right: 10px;
   margin: 20px auto;
-  width: 300px;
+  width: 400px;
+}
+
+p.bio::first-line {
+  font-weight: bold;
 }
