@@ -14,19 +14,17 @@
         <h2>Create a new database</h2>
         <label for="organization">Organization:</label>
         <input type="text" id="organization" />
-
+        <br />
         <label for="database-name">Database name:</label>
         <input type="text" id="database-name" aria-describedby="db-name-note" />
-        <div id="db-name-note">
+        <p id="db-name-note">
           Lowercase alphanumeric characters, dashes and underscores only.
-        </div>
-
+        </p>
         <label for="region">Region:</label>
         <input type="text" id="region" aria-describedby="region-note" />
-        <div id="region-note">
+        <p id="region-note">
           For best performance, enter a region closest to your application.
-        </div>
-
+        </p>
         <fieldset>
           <legend>Plan type:</legend>
           <input type="radio" id="basic" name="plan" />
@@ -38,7 +36,6 @@
           <input type="radio" id="pro" name="plan" />
           <label for="pro">Pro</label>
         </fieldset>
-
         <fieldset>
           <legend>Included Fields:</legend>
           <input type="checkbox" id="name" name="fields" />
@@ -59,7 +56,6 @@
           <input type="checkbox" id="type" name="fields" />
           <label for="type">Type</label>
         </fieldset>
-
         <button type="submit">Create</button>
         <button type="reset">Reset</button>
       </form>
