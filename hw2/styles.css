@@ -136,6 +136,7 @@ h1 {
   border: 2px solid var(--black);
   margin: auto;
   background-color: var(--white);
+  border-radius: 10px;
 }
 
 .userForm h2 {
@@ -143,7 +144,7 @@ h1 {
   margin-bottom: 2px;
 }
 
-.userForm p {
+.instructionform {
   margin-top: 5px;
   margin-bottom: 20px;
   font-weight: bold;
